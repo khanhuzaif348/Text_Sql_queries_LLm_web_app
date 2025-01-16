@@ -50,7 +50,7 @@ prompt=[
 ## Streamlit App
 
 st.set_page_config(page_title="Hi ! I can Retrieve Any SQL query")
-st.header("Web App to  Extract  SQL Data")
+st.header("Web App to talk your  SQL Data")
 
 question=st.text_input("Input: ",key="input")
 
